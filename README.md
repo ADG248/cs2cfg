@@ -18,7 +18,6 @@ PracticeMode Keybind<br/>
 Delete Grenade Bind (Delete Smokes, etc.)<br/>
 
 ### Additional Notes
-In CS2's Lauch Options you must put the name of the file after +exec<br/>
-For example, if the .cfg file is named autoexec.cfg, put +exec autoexec<br/>
+In CS2's Lauch Options, the file name must go after "+exec". If the .cfg file is named "autoexec.cfg", put "+exec autoexec"<br/>
 You can change the file name if you want as long as you put the same file name after +exec<br/>
 You can change the autoexec_base.cfg file to autoexec.cfg or a custom file name.<br/>
