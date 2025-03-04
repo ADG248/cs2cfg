@@ -13,6 +13,9 @@ The other is a base autoexec file for an easier setup from scratch.<br/>
 ```
 +exec autoexec
 ```
+### Included in this Config
+PracticeMode Keybind<br/>
+Delete Grenade Bind (Delete Smokes, etc.)<br/>
 
 ### Additional Notes
 In CS2's Lauch Options you must put the name of the file after +exec<br/>
