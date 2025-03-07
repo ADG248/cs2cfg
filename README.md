@@ -23,3 +23,4 @@ In CS2's Lauch Options, the name of the Config File must go after "+exec". If th
 You can change the file name if you want as long as you put the same file name after +exec<br/>
 You can change the autoexec_base.cfg file to autoexec.cfg or a custom file name.<br/>
 You can bind a key to refresh the autoexec file. So if you make changes to it while your game is open, you don't have to restart your game, just press that key. Already included in this Config File, "bind *key* exec autoexec".<br/>
+Each time the Config File gets reloaded it will load it's values. If you change a setting in game and it is set in the Config File, it will reset back to the Config File's value.<br/>
