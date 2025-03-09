@@ -14,7 +14,6 @@ The other is a base autoexec file for an easier setup from scratch.<br/>
 +exec autoexec
 ```
 ### Included in this Config
-- Refresh autoexec Keybind<br/>
 - PracticeMode On/Off Keybinds<br/>
 - Delete Grenade Keybind (Delete Smokes, etc.)<br/>
 
