@@ -17,4 +17,4 @@ This is a base autoexec file for an easier setup from scratch.<br/>
 - Each time CS2 loads the Config File, it will load it's values. If you change a setting in game and it is set in the Config File, it will reset back to the Config File's value.<br/>
 - This Config also includes things such as PracticeMode On/Off Keybinds, Delete Grenade Keybind (Delete Smokes, etc.), Refresh autoexec Keybind<br/>
 
-My Personal Settings: https://mega.nz/file/VIsTwAKL#DkE787bhKLUVo20Wo-YYK1N-XU0D-VQxcUo8ZJZD2QE
+My Personal Settings: https://settings.gg/adg_/cs2
