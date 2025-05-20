@@ -13,7 +13,7 @@ This is a base autoexec file for an easier setup from scratch.<br/>
 ```
 
 ### Additional Notes
-- Type "exec autoexec" in the console to update your changes in-game. You can also bind a key "bind *key* exec autoexec".<br/>
+- Enter "exec autoexec" in the console to apply changes made to the Config File in-game. You can also bind a key "bind *key* exec autoexec".<br/>
 - Settings changed in-game will reset back to the Config File's value each time the file is loaded.<br/>
 - This Config also includes "PracticeMode" On/Off Keybinds, Delete Grenade Keybind (Delete Smokes, etc.)<br/>
 
