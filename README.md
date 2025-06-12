@@ -3,6 +3,9 @@
 **Counter-Strike 2 Configuration File (autoexec)**<br/>
 This is a base autoexec.cfg file for an easier setup from scratch.<br/>
 
+### Download the autoexec.cfg file
+[![Download autoexec.cfg](https://img.shields.io/badge/Download-autoexec.cfg-blue)](https://raw.githubusercontent.com/ADG248/cs2cfg/main/autoexec.cfg)
+
 ### Place autoexec.cfg in \Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 ```
 \Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
