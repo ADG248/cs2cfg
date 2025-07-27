@@ -1,7 +1,7 @@
 # Counter-Strike 2 Configuration File - cs2cfg
 
 **Counter-Strike 2 Configuration File (autoexec)**<br/>
-This is a base autoexec.cfg file for an easier setup from scratch.<br/>
+This is a base template autoexec.cfg file for an easier setup from scratch.<br/>
 
 [![Download .zip](https://img.shields.io/badge/Download-.zip-blue)](https://github.com/ADG248/cs2cfg/archive/refs/heads/main.zip)
 
