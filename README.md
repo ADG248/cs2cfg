@@ -17,6 +17,6 @@ This is a base template autoexec.cfg file for an easier setup from scratch.<br/>
 ### Additional Notes
 - Enter "exec autoexec" in the console, or just "autoexec" because of the alias, to apply changes made to the Config File in-game. You can also bind a key "bind *key* exec autoexec".<br/>
 - Settings changed in-game will reset back to the Config File's value each time the file is loaded.<br/>
-- This Config also includes "PracticeMode" On/Off Keybinds, Spawn CT/T Bot Keybinds, Delete Grenade Keybind (Delete Smokes, etc.)<br/>
+- This Config also includes "PracticeMode" On/Off Keybinds, Spawn CT/T Bot Keybinds, Delete Grenade Keybind (Delete Smokes, etc.), and more.<br/>
 
 **My Personal Settings using this Config: https://settings.gg/adg_/cs2**
