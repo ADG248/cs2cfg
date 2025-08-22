@@ -21,4 +21,4 @@ Be aware that some values are already set for viewmodel, audio, telemetry, and m
 - Settings changed in-game will reset back to the Config File's value each time the file is loaded.<br/>
 - This Config also includes "PracticeMode" On/Off Keybinds, Spawn CT/T Bot Keybinds, Delete Grenade Keybind (Delete Smokes, etc.), and more.<br/>
 
-**My Personal Settings using this Config: https://settings.gg/adg_/cs2**
+**Example using this template: https://settings.gg/adg_/cs2**
