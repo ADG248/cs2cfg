@@ -13,6 +13,7 @@ This is a base template autoexec.cfg file for an easier setup from scratch.<br/>
 ```
 +exec autoexec
 ```
+Set the values for the commands you want to use. Most are just 0 and 1, some others like sensitivity, need a specific value.
 
 ### Additional Notes
 - Enter "exec autoexec" in the console, or just "autoexec" because of the alias, to apply changes made to the Config File in-game. You can also bind a key "bind *key* exec autoexec".<br/>
