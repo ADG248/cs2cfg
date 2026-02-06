@@ -1,6 +1,6 @@
 # Counter-Strike 2 Configuration File - cs2cfg
 
-**Counter-Strike 2 Configuration File (autoexec)**<br/>
+**Counter-Strike 2 Configuration File - autoexec.cfg**<br/>
 This is a base template autoexec.cfg file for an easier setup from scratch.<br/>
 Set the values for the commands you want to use. Most are just 0 and 1, some others like sensitivity, need a specific value.<br/>
 >**⚠️Be aware that some values are already set for viewmodel, radar, audio, telemetry, and more. If you don’t want your settings to change, remove these first.**<br/>
