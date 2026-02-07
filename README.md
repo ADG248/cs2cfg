@@ -1,4 +1,4 @@
-# Counter-Strike 2 Configuration File - cs2cfg
+# Counter-Strike 2 Configuration File - CS2cfg
 
 **Counter-Strike 2 Configuration File - autoexec.cfg**<br/>
 This is a base template autoexec.cfg file for an easier setup from scratch.<br/>
